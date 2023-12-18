@@ -1,5 +1,5 @@
 {
-    "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/BooTLoader/master/version1.bin",
+    "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/master/version1.bin",
     "firmwareSize": 348432,
     "firmwareVersion": "1.0.0",
     "checksum": "abcd1234ef567890abcd1234ef567890",
