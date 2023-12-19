@@ -1,7 +1,7 @@
 {
     "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/master/version1.bin",
     "firmwareSize": 348432,
-    "firmwareVersion": "2.0.121",
+    "firmwareVersion": "20.0.121",
     "checksum": "25EDA6D6",
     "additionalInfo": {
         "releaseDate": "2023-01-01",
