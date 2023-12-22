@@ -1,6 +1,6 @@
 {
     "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/master/version1.bin",
-    "firmwareSize": 348432,
+    "firmwareSize": 348512,
     "firmwareVersion": "11.10.2121",
     "checksum": "25EDA6D6",
     "additionalInfo": {
