@@ -1,8 +1,9 @@
 {
     "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/master/version1.bin",
     "firmwareSize": 368416,
+    "FrwCRC": 67987,
+    "Devicetype": 1, 
     "firmwareVersion": "21.12.2022",
-    "checksum": "25EDA6D6",
     "additionalInfo": {
         "releaseDate": "2023-01-01",
         "description": "D:projectsCodeArduionLora espForS2_1"
