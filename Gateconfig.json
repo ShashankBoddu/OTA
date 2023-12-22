@@ -1,8 +1,8 @@
 {
-    "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/master/version1.bin",
-    "firmwareSize": 368416,
-    "FrwCRC": 67987,
-    "Devicetype": 2, 
+    "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/master/GatewayTModule.bin",
+    "firmwareSize": 47224,
+    "FrwCRC": 2299642574,
+    "Devicetype": 2,
     "firmwareVersion": "21.12.2022",
     "additionalInfo": {
         "releaseDate": "2023-01-01",
