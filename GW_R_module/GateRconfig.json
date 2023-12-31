@@ -2,7 +2,7 @@
     "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/GW_R_module/encrypted_GateRconfig.txt",
     "firmwareSize": 33328,
     "FrwCRC": 762332187,
-    "Devicetype": 2,
+    "Devicetype": 3,
     "firmwareVersion": "0.0.1",
     "additionalInfo": {
         "releaseDate": "21.12.2020",
