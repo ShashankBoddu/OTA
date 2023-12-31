@@ -1,5 +1,5 @@
 {
-    "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/GW_R_module/encrypted_GateRconfig.txt",
+    "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/GW_R_module/GatewayRModule.bin",
     "firmwareSize": 33328,
     "FrwCRC": 762332187,
     "Devicetype": 3,
