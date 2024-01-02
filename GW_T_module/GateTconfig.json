@@ -3,10 +3,11 @@
     "firmwareSize": 36128,
     "FrwCRC": 3017481919,
     "Devicetype": 2,
+    "FrwSlotNum": 1,
     "firmwareVersion": "0.0.1",
     "additionalInfo": {
         "releaseDate": "21.12.2020",
         "description": "D:projectsCodeArduionLora espForS2_1"
     },
-    "FrwSlotNum": 1
+    
 }
