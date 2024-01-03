@@ -3,7 +3,7 @@
     "firmwareSize": 50368,
     "FrwCRC": 1344354729,
     "Devicetype": 3,
-    "FrwSlotNum": 1,
+    "FrwSlotNum": 0,
     "firmwareVersion": "0.0.1",
     "additionalInfo": {
         "releaseDate": "21.12.2020",
