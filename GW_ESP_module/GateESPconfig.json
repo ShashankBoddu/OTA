@@ -1,7 +1,7 @@
 {
     "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/GW_ESP_module/GatewayESPModule.bin",
-    "firmwareSize": 412048,
-    "FrwCRC": 4108299058,
+    "firmwareSize": 412016,
+    "FrwCRC": 3558284040,
     "Devicetype": 1,
     "firmwareVersion": "0.0.1",
     "additionalInfo": {
