@@ -1,7 +1,7 @@
 {
     "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/EndDevice/TU/1/1.bin",
-    "firmwareSize": 69440,
-    "FrwCRC": 844433665,
+    "firmwareSize": 69208,
+    "FrwCRC": 9184988,
     "Devicetype": 4,
     "DeviceID": 1,
     "FrwSlotNum": 0,
