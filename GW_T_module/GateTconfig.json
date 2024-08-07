@@ -1,7 +1,7 @@
 {
     "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/GW_T_module/GatewayTModule.bin",
-    "firmwareSize": 75248,
-    "FrwCRC": 2471759170,
+    "firmwareSize": 75960,
+    "FrwCRC": 149262998,
     "Devicetype": 2,
     "FrwSlotNum": 1,
     "firmwareVersion": "0.0.1",
