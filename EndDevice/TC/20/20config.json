@@ -1,7 +1,7 @@
 {
     "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/EndDevice/TC/20/20.bin",
     "firmwareSize": 82728,
-    "FrwCRC": 1578302998,
+    "FrwCRC": 3390632749,
     "Devicetype": 4,
     "DeviceID": 1,
     "FrwSlotNum": 0,
