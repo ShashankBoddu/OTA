@@ -3,5 +3,6 @@
     "firmwareSize": 448560,
     "FrwCRC": 829470469,
     "projectId": "TestingGSM3.3",
-    "DeviceId": "TestDev1"
+    "DeviceId": "TestDev1",
+    "FrwVr": 0.1
 }
