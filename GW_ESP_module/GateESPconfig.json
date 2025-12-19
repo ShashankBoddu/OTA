@@ -2,7 +2,7 @@
     "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/GW_ESP_module/GatewayESPModule.bin",
     "firmwareSize": 448560,
     "FrwCRC": 829470469,
-    "projectId": "TestingGSM3.3",
-    "DeviceId": "TestDev1",
+    "projectId": "IBRAH544OPSR",
+    "DeviceId": "FSSIBMGW01",
     "FrwVr": 0.1
 }
