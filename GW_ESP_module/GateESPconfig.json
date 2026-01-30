@@ -1,7 +1,7 @@
 {
     "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/OTA/main/GW_ESP_module/GatewayESPModule.bin",
-    "firmwareSize": 443648,
-    "FrwCRC": 341815058,
+    "firmwareSize": 443792,
+    "FrwCRC": 890331074,
     "projectId": "IGRS_X2X4DIX",
     "DeviceId": "FSS_SNMP_GW01",
     "FrwVr": 0.1
